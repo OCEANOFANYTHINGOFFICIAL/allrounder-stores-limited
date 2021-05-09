@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    font-family: 'Ubuntu', sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+}
+.btn{
+    size: 55px;
+    background-color: red;
+    color: white;
+    padding: 23px 23px 23px 23px;
+    padding-right: 23px;
+    cursor: pointer;
+    border-radius: 23px;
+    font-size: 22px;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 23px;
+    font-family: 'Ubuntu', sans-serif;
+}
+p, h3{
+    text-align: center;
+}
+h3{
+    font-size: 33px;
+}
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 23px;
+    border-radius: 23px;
+}
+.container{
+    width: 900px;
+    border: 3px solid purple;
+    margin: 33px auto;
+    border-radius: 23px;
+    background-color: sandybrown;
+    padding: 23px;
+    border-radius: 23px;
+}
+.item{
+    border: 3px solid gray;
+    margin: 12px 3px;
+    padding: 12px 3px;
+    background: rgb(255, 207, 231);
+    border-radius: 23px;
+}
+#fruit{
+    float: left;
+    width: 48%;
+    border-radius: 23px;
+}
+#computer{
+    float: right;
+    width: 48%;
+    border-radius: 23px;
+}
+#stationary{
+    /* float: left; */
+    clear: both;
+    width: 100%;
+    border-radius: 23px;
+}
+#glass{
+    clear: both;
+    width: 100%;
+    border-radius: 23px;
+}
+.para{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 23px;
+}
+#fruitpara{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 23px;
+}
+#computerpara{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 23px;
+}
+#stationarypara{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 23px;
+}
+#glasspara{
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 23px;
+}
